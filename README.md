@@ -54,3 +54,17 @@ These technologies work together to create a functional and visually appealing p
 The personal portfolio project is a comprehensive showcase of my skills, experiences, and creative work. It features a clean, modern design that emphasizes usability and visual appeal. The portfolio includes sections for an about me, home, portfolio, services, and contact information, all organized for easy navigation.
 
 Each project is presented with detailed descriptions and visuals, highlighting my contributions and the technologies used. The responsive design ensures that the portfolio looks great on any device, from desktops to smartphones, enhancing the user experience. Overall, this project serves as a powerful tool to demonstrate my capabilities and attract potential clients or employers.
+
+**Output Images**:
+
+<img width="1440" alt="Screenshot 2024-12-21 at 6 45 01 PM" src="https://github.com/user-attachments/assets/3965a8b9-2198-4268-bdd3-0d1e85edd8c3" />
+
+<img width="1440" alt="Screenshot 2024-12-21 at 6 45 14 PM" src="https://github.com/user-attachments/assets/9f9d2dd1-2fae-49da-a8f9-db795923dbf8" />
+
+<img width="1440" alt="Screenshot 2024-12-21 at 6 45 23 PM" src="https://github.com/user-attachments/assets/2f16fd42-4e2c-41c3-9679-77e8b6446b2b" />
+
+<img width="1440" alt="Screenshot 2024-12-21 at 6 45 36 PM" src="https://github.com/user-attachments/assets/b470588b-3f21-4f3b-a4f1-3fc4ee51a645" />
+
+<img width="1440" alt="Screenshot 2024-12-21 at 6 45 40 PM" src="https://github.com/user-attachments/assets/c9322414-d121-4175-822a-da12a9cbd5c7" />
+
+
